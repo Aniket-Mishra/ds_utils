@@ -1,7 +1,7 @@
 [project]
 name = "ds-utils"
 version = "0.1.0"
-description = "Add your description here"
+description = "Reusable Python utilities for data engineering, analysis, visualization, and ML workflows."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
